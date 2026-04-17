@@ -6,7 +6,6 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![Jekyll](https://skillicons.dev/icons?i=jekyll)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Python](https://skillicons.dev/icons?i=python)
