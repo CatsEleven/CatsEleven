@@ -1,5 +1,46 @@
-<h1 align="center">Hi👋 I'm CatsEleven</h1>
-<h3 align="center">Nice to meet you</h3>
+<h1 align="center">Hi, I'm CatsEleven</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="left">programming languages:</h3>
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" width="50" alt="Google Apps Script">
+![Python](https://skillicons.dev/icons?i=python)
+
+
+<h3 align="left">markup languages:</h3>
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+<h3 align="left">frameworks:</h3>
+
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![astro](https://skillicons.dev/icons?i=astro)
+![express](https://skillicons.dev/icons?i=express)
+![flask](https://skillicons.dev/icons?i=flask)
+
+<h3 align="left">middlewares:</h3>
+
+![nginx](https://skillicons.dev/icons?i=nginx)
+![postgres](https://skillicons.dev/icons?i=postgres)
+![sqlite](https://skillicons.dev/icons?i=sqlite)
+![prisma](https://skillicons.dev/icons?i=prisma)
+
+
+<h3 align="left">infrastructures:</h3>
+
+![ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![docker](https://skillicons.dev/icons?i=docker)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="50" alt="cisco">
+
+
+<h3 align="left">cloud Services:</h3>
+
+![supabase](https://skillicons.dev/icons?i=supabase)
+![firebase](https://skillicons.dev/icons?i=firebase)
+![vercel](https://skillicons.dev/icons?i=vercel)
+![aws](https://skillicons.dev/icons?i=aws)
+![cloudflare](https://skillicons.dev/icons?i=cloudflare)
